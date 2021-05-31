@@ -12,8 +12,10 @@ The propulsion system is running in cycles. Each cycle takes steps below.
 1. Push the manual trigger of stage 1
 1. The capacitor in stage 1 is discharged
 1. The coil in stage 1 generates a magnet field
-1. The projectile get accelerated by the magnet field towards stage 2
-1. The projectile cut off the light in auto trigger of stage 2
+1. The projectile gets accelerated by the magnet field towards stage 2
+1. The projectile reaches the middie of the coil, the capacitor stops discharging
+1. The projectile keeps moving in inertia
+1. The projectile cuts off the light in auto trigger of stage 2
 1. The capacitor in stage 2 is discharged
 1. The coil in stage 2 generates a magnet field
 1. The projectile get accelerated by the magnet field towards stage 3
