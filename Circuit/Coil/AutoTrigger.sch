@@ -43,13 +43,13 @@ Wire Wire Line
 Wire Wire Line
 	3550 2550 3550 2750
 $Comp
-L Device:Q_Photo_NPN Q1
-U 1 1 60A7E1C9
+L Sensor_Optical:BP103B Q1
+U 1 1 60B4739D
 P 4000 3250
-F 0 "Q1" H 4190 3296 50  0000 L CNN
-F 1 "Q_Photo_NPN" H 4190 3205 50  0000 L CNN
-F 2 "" H 4200 3350 50  0001 C CNN
-F 3 "~" H 4000 3250 50  0001 C CNN
+F 0 "Q1" H 4191 3296 50  0000 L CNN
+F 1 "BP103B" H 4191 3205 50  0000 L CNN
+F 2 "LED_THT:LED_D5.0mm_Clear" H 4480 3110 50  0001 C CNN
+F 3 "http://www.b-kainka.de/Daten/Sensor/bp103bf.pdf" H 4000 3250 50  0001 C CNN
 	1    4000 3250
 	1    0    0    -1  
 $EndComp
@@ -87,7 +87,7 @@ U 1 1 60A79ED3
 P 5500 3000
 F 0 "J2" H 5472 3024 50  0000 R CNN
 F 1 "Trigger" H 5472 2933 50  0000 R CNN
-F 2 "" H 5500 3000 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 5500 3000 50  0001 C CNN
 F 3 "~" H 5500 3000 50  0001 C CNN
 	1    5500 3000
 	-1   0    0    -1  
