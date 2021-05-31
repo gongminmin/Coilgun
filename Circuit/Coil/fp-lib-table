@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name Nozzle)(type KiCad)(uri ${KIPRJMOD}/Nozzle.pretty)(options "")(descr ""))
-)
