@@ -107,13 +107,13 @@ Wire Wire Line
 Wire Wire Line
 	6000 2750 6000 3300
 $Comp
-L Triac_Thyristor:TIC126 Q1
+L Device:Q_SCR_KAG Q1
 U 1 1 60A8CBFE
 P 5450 2750
 F 0 "Q1" V 5675 2750 50  0000 C CNN
-F 1 "TIC126" V 5584 2750 50  0000 C CNN
-F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 5550 2675 50  0001 L CIN
-F 3 "https://cdn-reichelt.de/documents/datenblatt/A400/TIC126.pdf" H 5450 2750 50  0001 L CNN
+F 1 "70PT12DS" V 5584 2750 50  0000 C CNN
+F 2 "Package_TO_SOT_THT:TO-247-3_Vertical" H 5550 2675 50  0001 L CIN
+F 3 "https://www.nellsemi.com/archive/doc/product/spe/70PTxxDS%20Series.pdf" H 5450 2750 50  0001 L CNN
 	1    5450 2750
 	0    -1   -1   0   
 $EndComp
